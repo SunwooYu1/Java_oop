@@ -28,6 +28,7 @@ public class PolymorphismExample {
 //		Shape shape = new Shape();
 //		Circle circle = new Circle();
 //		Lectangle lectangle = new Lectangle();
+		System.out.println("테스트버전 4시 8분");
 		
 	}
 
