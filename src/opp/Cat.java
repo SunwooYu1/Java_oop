@@ -5,5 +5,6 @@ public class Cat extends Animal{
 	public void cry() {
 		System.out.println("야옹");
 		System.out.println("추가되는 메세지");
+		System.out.println("");
 	}
 }

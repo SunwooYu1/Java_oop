@@ -13,7 +13,7 @@ public class AccountApplication {
 		// 기본 데이터타입 변수 선언 및 할당
 		int age = 0;
 		System.out.println("나이 : " + age);
-
+		//변경점
 		// 만들어둔 변수 선언 값을 넣어줘야 메모리 올라감
 		// Account account;(1), new Account()(2) 순서대로 실행됨
 		// -4bit로 생성- - new 이용해 새로운 메모리 공간을 만듬 -
